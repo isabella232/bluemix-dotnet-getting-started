@@ -28,7 +28,7 @@ You need a Bluemix account; register for free here: https://console.ng.bluemix.n
 
 * Click the **+NEW** button, enter an application name, paste the package URL, and click **Save and Continue**
 
-<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/3-DeployApp.gif" width=500">
+<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/3-DeployApp.gif" width="500">
 
 * **Promote** the app to **Sandbox**, and promote again to **Published**
 
