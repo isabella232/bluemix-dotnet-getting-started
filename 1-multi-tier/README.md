@@ -36,6 +36,4 @@ You need a Bluemix account; register for free here: https://console.ng.bluemix.n
 
 * Click **Launch** to open the TimeCard app
 
-## Detailed Steps
-_TODO_
 
