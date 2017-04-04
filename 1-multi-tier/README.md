@@ -7,14 +7,12 @@ You need a Bluemix account; register for free here: https://console.ng.bluemix.n
 ## Quick Steps
 ### Deploy Apprenda Cloud Platform
 
-<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/1-BluemixCatalog.gif" width="450">
-
 * Go to **Bluemix Catalog**: https://console.ng.bluemix.net/catalog/
 * Search for  `bluemix .net`, choose **Apprenda Cloud Platform**, and click **Create**
 * Open **Apprenda Cloud Platform Dashboard**
 * Copy/save generated **Sign-Up Token**
 
-<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/1-LaunchACP.gif" width="450">
+<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/1-BluemixCatalog.gif" width="450">
 
 ### Register Platform Organization Account
 * Complete the **Registration Form** required fields
@@ -22,6 +20,7 @@ You need a Bluemix account; register for free here: https://console.ng.bluemix.n
 * Click **Create My Account**
 * After Bluemix provisions everything, click the link to the **Developer Portal**
 
+<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/2-LaunchACP.gif" width="450">
 
 ### Deploy Application
 * Copy TimeCard.zip application package URL:  
