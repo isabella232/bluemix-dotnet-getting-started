@@ -25,11 +25,16 @@ You need a Bluemix account; register for free here: https://console.ng.bluemix.n
 ### 3. Deploy Application
 * Copy TimeCard.zip application package URL:  
 `https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/TimeCard.zip`
-* Click the **+NEW** button, enter an application name, paste the package URL, and click **Save and Continue**
-* **Promote** the app to **Sandbox**, and promote again to **Published**
-* Click **Launch** to open the TimeCard app
 
-<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/3-DeplopyApp.gif" width="450">
+* Click the **+NEW** button, enter an application name, paste the package URL, and click **Save and Continue**
+
+<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/3-DeployApp.gif" width="450">
+
+* **Promote** the app to **Sandbox**, and promote again to **Published**
+
+<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/1-multi-tier/images/4-PromoteApp.gif" width="450">
+
+* Click **Launch** to open the TimeCard app
 
 ## Detailed Steps
 _TODO_
