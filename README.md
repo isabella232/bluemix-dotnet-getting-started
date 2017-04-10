@@ -1,6 +1,6 @@
 # Getting Started with .NET on Bluemix
 
-<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/images/bluemix.png" width="500">
+<img src="https://github.com/apprenda/bluemix-dotnet-getting-started/raw/master/images/bluemix.png" width="400">
 
 These tutorials will get you started  with deploying .NET applications on IBM Bluemix.
 
